@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎈 Atualmente estudando Ruby on Rails.
-- 🎨 Atualmente trabalho de Freelancer em Design Gráfico.
+- 🎨 Atualmente trabalho de Freelancer em Design Gráfico e outras tecnologias.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
 <div align="center">
