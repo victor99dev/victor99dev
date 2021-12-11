@@ -48,8 +48,4 @@
 </div>
   
  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
-
-
-
-  g
   
