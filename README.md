@@ -18,7 +18,7 @@
  	<a href="https://www.twitch.tv/vitorcalltv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>a
+</div>
   
 <div style="display: inline_block"><br>
   <h2> Tecnologias que utilizo e já estudei: </h2>
