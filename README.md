@@ -1,8 +1,9 @@
 # 👋 Olá, chamo Victor Hugo!
 
+- 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🎈 Atualmente estudando Ruby on Rails.
-- 🎨 Atualmente trabalho de Freelancer em Design Gráfico e outras tecnologias.
+- 🎈 Atualmente em busca de um emprego como Desenvolvedor.
+- 🎨 Experiência com Design Gráfico, interfaces para aplicações e SQL.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
 <div align="center">
