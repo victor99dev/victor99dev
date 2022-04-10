@@ -21,7 +21,7 @@
  
 </div>
   
-<div style="display: inline_block"><br>
+ <! -- <div style="display: inline_block"><br>
   <h2> Tecnologias que utilizo e já estudei: </h2>
   <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,6 +47,7 @@
   <img align="center" alt="victor-Afe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   
 </div>
+-->
   
  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
   
