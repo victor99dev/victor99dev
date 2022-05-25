@@ -3,7 +3,8 @@
 - 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎈 Atualmente em busca de um emprego como Desenvolvedor.
-- 🎨 Experiência com Design Gráfico, interfaces para aplicações e SQL.
+- 📱  Estudando Flutter para aprimorar minhas habilidades.
+- 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
 <div align="center">
@@ -35,6 +36,8 @@
   <img align="center" alt="victor-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="victor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="victor-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+   <img align="center" alt="victor-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="victor-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
