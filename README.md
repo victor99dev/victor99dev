@@ -1,6 +1,6 @@
 # 👋 Olá, chamo Victor Hugo!
 
-- 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
+- 👨‍🎓 Cursando Pós-Graduação em Especialista Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎈 Atualmente em busca de um emprego como Desenvolvedor.
 - 📱  Estudando Flutter para aprimorar minhas habilidades.
