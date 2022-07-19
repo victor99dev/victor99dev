@@ -4,7 +4,7 @@
 - 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Atualmente participo do Santander Bootcamp FullStack Developer.
-- 📱 Estudando Flutter para aprimorar minhas habilidades.
+- 📱 Cursando Flutter na Udemy para aprimorar minhas habilidades.
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
