@@ -1,6 +1,5 @@
 # 👋 Olá, chamo Victor Hugo!
 
-- 🎈 Em busca de um emprego ou estágio.
 - 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📱 Cursando Flutter na Udemy para aprimorar minhas habilidades.
