@@ -1,8 +1,8 @@
 # 👋 Olá, chamo Victor Hugo!
 
+- 👩‍💻 Desenvolvedor Back-End na @SigTrans.
 - 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 📱 Cursando Flutter na Udemy para aprimorar minhas habilidades.
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
