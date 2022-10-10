@@ -6,7 +6,7 @@
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/torugo99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torugo99&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugo99&layout=compact&langs_count=7&theme=gotham"/>
@@ -26,6 +26,10 @@
     <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="victor-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"">
+    <img align="center" alt="victor-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+    <img align="center" alt="victor-DotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="victor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="victor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" alt="victor-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
     <img align="center" alt="victor-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
@@ -35,6 +39,11 @@
     <img align="center" alt="victor-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center" alt="victor-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="victor-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+<h2> Qual minha IDE? </h2>
+<img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -48,5 +57,19 @@
     <img align="center" alt="victor-Afe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
 </div>
 
+<div align="center"><br>
+<img height="199em" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=github_dark"/>
+  </table>
+    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=github_dark"/></td><td>
+    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=2077"/></td><td>
+    <br>
+    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=2077"/></td><td>
+    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=2077"/></td></tr>
+  </table>
+</div>
+
+<div align="center"><br>
+
 ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
-  
+
+</div>
