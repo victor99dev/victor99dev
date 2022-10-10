@@ -5,6 +5,7 @@
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
+- 👷‍♂️ Atualmente estou trabalhando com: ```C# | .Net | TyperScript| React | Flutter|```
 
 <div align="center"><br>
   <a href="https://github.com/torugo99">
@@ -42,8 +43,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-<h2> Qual minha IDE? </h2>
-<img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <h2> Qual minha IDE? </h2>
+    <img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -58,18 +59,19 @@
 </div>
 
 <div align="center"><br>
-<img height="199em" src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=github_dark"/>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=github_dark"/></td></tr>
   </table>
-    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=github_dark"/></td><td>
-    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=2077"/></td><td>
-    <br>
-    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=2077"/></td><td>
-    <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=2077"/></td></tr>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=github_dark"/></td></tr>
   </table>
 </div>
 
 <div align="center"><br>
 
-![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
 
 </div>
