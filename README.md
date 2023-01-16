@@ -1,7 +1,7 @@
 # 👋 Olá, chamo Victor Hugo!
 
 - 👩‍💻 Desenvolvedor Back-End na @Sigtrans.
-- 👨‍🎓 Cursando Pós-Graduação em Engenharia de Software.
+- 👨‍🎓 Pós-Graduado em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
 - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
