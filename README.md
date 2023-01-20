@@ -4,8 +4,8 @@
 - 👨‍🎓 Pós-Graduado em Engenharia de Software.
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
-- 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
-- 👷‍♂️ Atualmente estou trabalhando com: ```C# | .Net | TypeScript| React | Flutter|```
+- 🎮 Streamer na Twitch e criador de conteúdos no Youtube.
+- 👷‍♂️ Atualmente estou trabalhando com: ```C# | .Net | TypeScript| NodeJs |React | Flutter|```
 
 <div align="center"><br>
   <a href="https://github.com/torugo99">
