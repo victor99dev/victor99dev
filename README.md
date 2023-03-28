@@ -1,4 +1,4 @@
-# 👋 Olá, chamo Victor Hugo!
+# 👋 Olá, me chamo Victor Hugo!
 
 - 👩‍💻 Desenvolvedor Back-End.
 - 👨‍🎓 Pós-Graduado em Engenharia de Software.
