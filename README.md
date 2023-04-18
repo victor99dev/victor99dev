@@ -22,7 +22,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2> Technologies I use and study: </h2>
+  <h2> Technologies i use and study: </h2>
     <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -53,7 +53,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-   <h2> Software I use as a design: </h2>
+   <h2> Software i use as a design: </h2>
     <img align="center" alt="victor-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="victor-Illus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="victor-PREMI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
