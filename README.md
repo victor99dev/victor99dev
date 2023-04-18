@@ -1,11 +1,11 @@
-# 👋 Olá, me chamo Victor Hugo!
+# 👋 Hello, my name is victor hugo Victor Hugo!
 
-- 👩‍💻 Desenvolvedor Back-End.
-- 👨‍🎓 Pós-Graduado em Engenharia de Software.
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🎨 Experiência com Design Gráfico, Interfaces para aplicações, Desenvolvimento web, Banco de Dados e mobile.
-- 🎮 Streamer na Twitch e criador de conteúdos no Youtube.
-- 👷‍♂️ Atualmente estou trabalhando com: ```C# | .Net | TypeScript| NodeJs |React | Flutter|```
+- 👩‍💻 BackEnd Developer.
+- 👨‍🎓 Software Engineering Specialist.
+- 👨‍🎓 Bachelor of Technology in Systems Analysis and Development.
+- 🎨 Experience with Graphic Design, Application Interfaces, Web Development, Database and mobile.
+- 🎮 Streamer on Twitch and content creator on Youtube.
+- 👷‍♂️ I'm currently working with: ```C# | .Net | TypeScript| NodeJs |React | Flutter|```
 
 <div align="center"><br>
   <a href="https://github.com/torugo99">
@@ -14,7 +14,7 @@
 </div>
   
 <div style="display: inline_block"><br> 
-  <h2> Minhas redes sociais: </h2>
+  <h2> My social networks: </h2>
     <a href="https://www.youtube.com/channel/UCJuB0ldfxyBcMKgQ5qlYipA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/victor.hug99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/vitorcalltv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2> Tecnologias que utilizo e já estudei: </h2>
+  <h2> Technologies I use and study: </h2>
     <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,12 +48,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2> Qual minha IDE? </h2>
+  <h2> What is my IDE? </h2>
     <img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
-   <h2> Software que utilizo como design: </h2>
+   <h2> Software I use as a design: </h2>
     <img align="center" alt="victor-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="victor-Illus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="victor-PREMI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
