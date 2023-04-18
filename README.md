@@ -1,4 +1,5 @@
 # 👋 Hello, my name is Victor Hugo or Victor99dev!
+##### [ 🇧🇷 Leia esta página em Português | Read this page in Português](./README-pt.md)
 
 - 👩‍💻 BackEnd Developer.
 - 👨‍🎓 Software Engineering Specialist.
