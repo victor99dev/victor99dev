@@ -6,7 +6,7 @@
 - 👨‍🎓 Bachelor of Technology in Systems Analysis and Development.
 - 🎨 Experience with Graphic Design, Application Interfaces, Web Development, Database and mobile.
 - 🎮 Streamer on Twitch and content creator on Youtube.
-- 👷‍♂️ I'm currently working with: ```C# | .Net | TypeScript| NodeJs |React | Flutter|```
+- 👷‍♂️ I'm currently working with: ```C# | .Net | TypeScript| NodeJs | React | Flutter|```
 
 <div align="center"><br>
   <a href="https://github.com/torugo99">
