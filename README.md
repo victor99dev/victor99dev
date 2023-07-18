@@ -1,12 +1,11 @@
-# 👋 Hello, my name is Victor Hugo or Victor99dev!
-##### [ 🇧🇷 Leia esta página em Português | Read this page in Português](./README-pt.md)
+# 👋 Hello there, my name is Victor Hugo!
 
-- 👩‍💻 BackEnd Developer.
-- 👨‍🎓 Software Engineering Specialist.
-- 👨‍🎓 Bachelor of Technology in Systems Analysis and Development.
+- 👩‍💻 Backend Developer (Mid-level) at Sofintech.
+- 👷‍♂️ I'm currently working with: ```C# | .Net```.
+- 👨‍🎓 Specialization in Software Engineering.
+- 👨‍🎓 Analysis and Systems Development.
 - 🎨 Experience with Graphic Design, Application Interfaces, Web Development, Database and mobile.
 - 🎮 Streamer on Twitch and content creator on Youtube.
-- 👷‍♂️ I'm currently working with: ```C# | .Net | TypeScript| NodeJs | React | Flutter|```
 
 <div align="center"><br>
   <a href="https://github.com/torugo99">
