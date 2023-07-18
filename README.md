@@ -61,6 +61,7 @@
     <img align="center" alt="victor-COREL" height="30" width="40" src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png">
     <img align="center" alt="victor-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
     <img align="center" alt="victor-Afe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+    <img align="center" alt="victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
 <div align="center"><br>
