@@ -75,9 +75,3 @@
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=dark"/></td></tr>
   </table>
 </div>
-
-<div align="center"><br>
-
-  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
-
-</div>
