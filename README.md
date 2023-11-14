@@ -8,9 +8,9 @@
 - 🎮 Streamer on Twitch and content creator on Youtube.
 
 <div align="center"><br>
-  <a href="https://github.com/torugo99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torugo99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugo99&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/victor99dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor99dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor99dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br> 
@@ -66,12 +66,12 @@
 
 <div align="center"><br>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor99dev&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor99dev&theme=dark"/></td></tr>
   </table>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor99dev&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor99dev&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor99dev&theme=dark"/></td></tr>
   </table>
 </div>
