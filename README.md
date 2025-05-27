@@ -1,6 +1,6 @@
 # 👋 Hello there, my name is Victor Hugo!
 
-- 👩‍💻 Backend Developer (Mid-level) at Sofintech.
+- 👩‍💻 Backend Developer (Mid-level) at Jotatei.
 - 👷‍♂️ I'm currently working with: ```C# | .Net```.
 - 👨‍🎓 Specialization in Software Engineering.
 - 👨‍🎓 Analysis and Systems Development.
