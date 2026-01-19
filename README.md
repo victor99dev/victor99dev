@@ -1,7 +1,7 @@
 # 👋 Hello there, my name is Victor Hugo!
 
-- 👩‍💻 Backend Developer (Mid-level) at Jotatei.
-- 👷‍♂️ I'm currently working with: ```C# | .Net```.
+- 👩‍💻 Full Stack Developer (Mid-level).
+- 👷‍♂️ I'm currently working with: ```C# | .Net | TS | Node```.
 - 👨‍🎓 Specialization in Software Engineering.
 - 👨‍🎓 Analysis and Systems Development.
 - 🎨 Experience with Graphic Design, Application Interfaces, Web Development, Database and mobile.
