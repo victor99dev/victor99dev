@@ -1,6 +1,6 @@
 # 👋 Hello there, my name is Victor Hugo!
 
-- 👩‍💻 Full Stack Developer (Mid-level).
+- 👩‍💻 Full Stack Developer.
 - 👷‍♂️ I'm currently working with: ```C# | .Net | TS | Node```.
 - 👨‍🎓 Specialization in Software Engineering.
 - 👨‍🎓 Analysis and Systems Development.
