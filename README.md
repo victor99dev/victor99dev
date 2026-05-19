@@ -6,12 +6,6 @@
 - 👨‍🎓 Analysis and Systems Development.
 - 🎨 Experience with Graphic Design, Application Interfaces, Web Development, Database and mobile.
 - 🎮 Streamer on Twitch and content creator on Youtube.
-
-<div align="center"><br>
-  <a href="https://github.com/victor99dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor99dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor99dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br> 
   <h2> My social networks: </h2>
